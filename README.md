@@ -10,6 +10,8 @@ Shows incoming and outgoing calls as notification badges on MacOS
 * No addressbook feature, yet
 * Fixed fritzbox address at `fritz.box`
 
+[Download](https://github.com/jtheuer/MacFritzCallmonitor/releases/download/0.0.1/MacFritz.call.monitor.app.zip)
+
 # Build and run
 
 ```bash
