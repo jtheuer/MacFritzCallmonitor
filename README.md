@@ -1,5 +1,5 @@
 # MacFritz call monitor
-Shows incoming and outgoing calls as notification badges on MacOS
+Shows incoming and outgoing calls as notification badges on MacOS. Requires a FritzBox.
 
 # Latest release: version 0.0.1
 
