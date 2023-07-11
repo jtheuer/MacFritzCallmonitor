@@ -1,0 +1,4 @@
+rumps
+fritzconnection
+py2app
+charset-normalizer==2.1.0
