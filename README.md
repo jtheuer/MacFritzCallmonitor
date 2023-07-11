@@ -3,6 +3,8 @@ Shows incoming and outgoing calls as notification badges on MacOS
 
 # Latest release: version 0.0.1
 
+<img width="361" alt="image" src="https://github.com/jtheuer/MacFritzCallmonitor/assets/96364/8633b300-113b-4284-bb28-ac01e587f5d9">
+
 * Shows incoming/outgoing calls as notifications
 * No addressbook feature, yet
 * Fixed fritzbox address at `fritz.box`
