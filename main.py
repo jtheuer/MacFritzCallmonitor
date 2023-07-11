@@ -39,7 +39,7 @@ class FritzCallMonitor(rumps.App):
         self.menu_status.title = f"{icon} {hostname}"
 
 
-def call_monitor(fritz_call_monitor, address='192.168.188.1'):
+def call_monitor(fritz_call_monitor, address='fritz.box'):
     try:
         while True:
             try:
